@@ -1,0 +1,157 @@
+<gallery>
+
+
+     <settings>
+
+
+
+
+
+
+          <background>
+
+               <transparentBG>1</transparentBG>
+               <bgColor>16777215</bgColor>
+          </background>
+          <colorScheme>
+
+
+
+
+               <thumbsArrowsColor>0</thumbsArrowsColor>
+               <thumbsFrameColor>16777215</thumbsFrameColor>
+               <imageBGColor>0</imageBGColor>
+               <useShadow>1</useShadow>
+               <imageArrowsColor>16777215</imageArrowsColor>
+          </colorScheme>
+          <thumbnail>
+
+
+               <alpha>70</alpha>
+               <width>150</width>
+               <height>110</height>
+          </thumbnail>
+          <imageCaption>
+
+
+
+
+
+
+               <visibleMode>always</visibleMode>
+               <fontName>Arial</fontName>
+               <color>16777215</color>
+               <fontSize>11</fontSize>
+               <bgAlpha>30</bgAlpha>
+               <bgColor>0</bgColor>
+               <position>top</position>
+          </imageCaption>
+          <image>
+               <scaleMode>fit</scaleMode>
+          </image>
+          <thumbCaption>
+
+
+
+
+
+               <visibleMode>never</visibleMode>
+               <fontName>Arial</fontName>
+               <bgAlpha>70</bgAlpha>
+               <fontSize>9</fontSize>
+               <color>16777215</color>
+               <bgColor>3355443</bgColor>
+          </thumbCaption>
+     </settings>
+     <galleryName>Box Gallery</galleryName>
+     <items>
+          <item>
+
+
+
+
+               <thumb>gallery_14/images_14/t1.jpg</thumb>
+               <source>gallery_14/images_14/1.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_14/images_14/t2.jpg</thumb>
+               <source>gallery_14/images_14/2.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_14/images_14/t3.jpg</thumb>
+               <source>gallery_14/images_14/3.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_14/images_14/t4.jpg</thumb>
+               <source>gallery_14/images_14/4.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_14/images_14/t5.jpg</thumb>
+               <source>gallery_14/images_14/5.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_14/images_14/t6.jpg</thumb>
+               <source>gallery_14/images_14/6.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_14/images_14/t7.jpg</thumb>
+               <source>gallery_14/images_14/7.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_14/images_14/t8.jpg</thumb>
+               <source>gallery_14/images_14/8.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_14/images_14/t9.jpg</thumb>
+               <source>gallery_14/images_14/9.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_14/images_14/t10.jpg</thumb>
+               <source>gallery_14/images_14/10.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_14/images_14/t11.jpg</thumb>
+               <source>gallery_14/images_14/11.jpg</source>
+          </item>
+     </items>
+</gallery>

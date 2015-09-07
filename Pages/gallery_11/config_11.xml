@@ -1,0 +1,93 @@
+<gallery>
+
+
+     <settings>
+
+
+
+
+
+
+
+          <background>
+
+               <bgColor>16777215</bgColor>
+               <transparentBG>1</transparentBG>
+          </background>
+          <thumbnail>
+
+
+               <alpha>70</alpha>
+               <width>50</width>
+               <height>30</height>
+          </thumbnail>
+          <translation>
+
+
+
+
+
+
+               <shareWithFacebook>Share with Facebook</shareWithFacebook>
+               <startSlideshow>Start slideshow</startSlideshow>
+               <stopSlideshow>Stop slideshow</stopSlideshow>
+               <clickToView>Click to view</clickToView>
+               <tweet>Tweet</tweet>
+               <getLink>Get link</getLink>
+               <fullscreenMode>Fullscreen mode</fullscreenMode>
+          </translation>
+          <caption>
+               <showCaption>0</showCaption>
+          </caption>
+          <image>
+
+
+               <bgTintColor>0</bgTintColor>
+               <padding>50</padding>
+               <scaleMode>fit</scaleMode>
+          </image>
+          <slideshow>
+
+               <start>0</start>
+               <delay>2.5</delay>
+          </slideshow>
+          <buttons>
+
+
+
+
+               <showTwitterButton>1</showTwitterButton>
+               <showFacebookButton>1</showFacebookButton>
+               <showFullscreenButton>1</showFullscreenButton>
+               <showSlideshowButton>1</showSlideshowButton>
+               <showImageNavigationButtons>1</showImageNavigationButtons>
+          </buttons>
+     </settings>
+     <galleryName>Aura Gallery</galleryName>
+     <items>
+          <item>
+
+
+
+
+               <thumb>gallery_11/images_11/t1.jpg</thumb>
+               <source>gallery_11/images_11/1.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_11/images_11/t2.jpg</thumb>
+               <source>gallery_11/images_11/2.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_11/images_11/t3.jpg</thumb>
+               <source>gallery_11/images_11/3.jpg</source>
+          </item>
+     </items>
+</gallery>

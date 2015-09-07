@@ -1,0 +1,171 @@
+body{
+	background-image:url("ComicAlbum/Greya.jpg");
+	background-repeat:no-repeat;
+	background-position:top,bottom;
+	margin: 0 auto;
+	background-size: 1350px 780px, 1350px 1000px;
+}
+.heroes1{
+	margin-top: -190px;
+}
+
+#afterthor{
+	background-image:url("SitePictures/loki.jpg");
+	background-position:bottom;
+	background-size: 1350px 500px; 
+	margin-top:-30px;
+}
+.wrap {
+		position:relative;
+		margin-top: -50px;
+		margin:0 auto;
+		width:1300px;
+	}
+#header{
+		width:100%;
+		float:left;
+		margin-top: -20px;
+	}
+a {
+  text-decoration: none;
+}
+nav {
+   height:70px;
+   width:100%;
+   font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
+   font-size:20px;
+}
+nav ul {
+   list-style-type:circle;
+   margin: 0 auto;
+}
+nav ul li {
+   float: left;
+   display: inline;
+}
+nav a:link, nav a:visited {
+   border:3px solid black;
+   background:#FFCC00;
+   color: black;
+   font-weight:bold;
+   display: inline-block;
+   padding: 10px 25px;
+   height: 25px;
+}
+nav ul li a {
+   border-radius: 10px;
+}
+nav a:hover, nav a:active, nav .active a:link,  nav .active a:visited{
+   background-color: #CC3300 ;
+   color: black;
+   text-shadow: 5px;
+}
+#wowslider-container1{
+	float:left;
+}
+#left_col{
+	float:left;
+	margin-left: 65px;
+	margin-top: -10px;
+}
+#right_col{
+	float:right;
+	margin-right: 104px;
+	margin-left: 0px;
+	margin-top: -10px;
+}
+form{
+	position:relative;
+	
+}
+#left_collumn{
+	float:left;
+	margin-left: 65px;
+	margin-top: -10px;
+}
+#right_collumn img{
+	padding-top: 60px;
+	padding-left: 100px;
+}
+#middle{
+	margin-top: -10px;
+}
+h4{
+	font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size:25px;
+	text-align:Center;
+	color: #fff;
+	font-weight:bold;
+}
+#newcomics img{
+	margin-top:-4px;
+	margin-bottom: -5px;
+}
+#search{
+    text-align:right;
+    padding-top:10px;
+    padding-right:400px;
+}
+  
+ #search input{
+    vertical-align:middle;
+ }
+  
+ #search .search_input{
+    width:160px;
+    margin-right:10px;
+    padding:6px 10px;
+    color:#F2AA00;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:13px;
+    background-color:#280000;
+    border:1px solid #7C0000;
+    -webkit-border-radius: 3px;
+    -khtml-border-radius: 3px; 
+    -moz-border-radius: 3px;
+    border-radius: 4px;
+    background-color:black; filter:alpha(opacity=70); opacity:.7;
+ }
+ #social_media{
+     vertical-align: center;
+     margin-left: 10px;
+     text-align:right;
+   	 margin-top:-45px;
+     padding-right:190px;
+}
+#comicbuzz img{
+	margin-top:-4px;
+	margin-bottom: -5px;
+}
+#comicbuzz{
+	margin-top:4px;
+}
+h6{
+	font-family: Verdana;
+	font-style:italic;
+	color:#F2AA00;
+	font-size:20px;
+	font-weight:bold;
+	padding-left:20px;
+}
+h5{
+	margin-top: -40px;
+	margin-left: 15px;
+	font-family: Verdana;
+	font-style:italic;
+	font-weight:bold;
+	color:#fff;
+	font-size:30px;
+}
+#thor{
+	margin-top:500px;
+}
+#video{
+	width:520px;
+	height:540px; 
+	margin-left:50px;
+	
+}
+.featured{
+	margin-top: -200px;
+}

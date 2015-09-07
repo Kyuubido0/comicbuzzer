@@ -1,0 +1,177 @@
+<gallery>
+
+
+     <settings>
+
+
+
+
+
+
+
+
+
+          <background>
+
+               <bgColor>16777215</bgColor>
+               <transparentBG>1</transparentBG>
+          </background>
+          <thumbBar>
+
+
+               <scrollSpeed>10</scrollSpeed>
+               <useThumbBar>1</useThumbBar>
+               <position>bottom</position>
+          </thumbBar>
+          <thumbnail>
+
+
+
+
+
+
+
+               <outlineColorOnClick>10066329</outlineColorOnClick>
+               <outlineColorOnRollOver>6710886</outlineColorOnRollOver>
+               <outlineColor>3355443</outlineColor>
+               <useShadow>1</useShadow>
+               <alpha>70</alpha>
+               <width>60</width>
+               <cornerRadius>0</cornerRadius>
+               <height>45</height>
+          </thumbnail>
+          <preview>
+
+
+
+
+
+
+               <usePreview>1</usePreview>
+               <outlineColor>16777215</outlineColor>
+               <useShadow>1</useShadow>
+               <alpha>100</alpha>
+               <width>200</width>
+               <cornerRadius>10</cornerRadius>
+               <height>100</height>
+          </preview>
+          <preloader>
+
+               <usePreloader>1</usePreloader>
+               <alpha>80</alpha>
+          </preloader>
+          <caption>
+
+
+
+
+
+
+               <fontName>Arial</fontName>
+               <fontSize>11</fontSize>
+               <visibleMode>onRollOver</visibleMode>
+               <bgColor>0</bgColor>
+               <color>16777215</color>
+               <position>bottom</position>
+               <bgAlpha>30</bgAlpha>
+          </caption>
+          <image>
+
+
+
+
+
+               <transitionDuration>2</transitionDuration>
+               <scaleMode>fill</scaleMode>
+               <transitionEffect>fit</transitionEffect>
+               <useShadow>1</useShadow>
+               <cornerRadius>10</cornerRadius>
+               <align>center</align>
+          </image>
+          <slideshow>
+
+
+
+               <stopAutoOnClick>1</stopAutoOnClick>
+               <loop>1</loop>
+               <start>0</start>
+               <delay>2.5</delay>
+          </slideshow>
+          <buttons>
+
+
+
+               <navigationButtons>1</navigationButtons>
+               <slideshowButton>1</slideshowButton>
+               <position>right</position>
+               <fullScreenButton>1</fullScreenButton>
+          </buttons>
+     </settings>
+     <galleryName>Art Gallery</galleryName>
+     <items>
+          <item>
+
+
+
+
+               <thumb>gallery_03/images_03/t1.jpg</thumb>
+               <source>gallery_03/images_03/1.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_03/images_03/t2.jpg</thumb>
+               <source>gallery_03/images_03/2.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_03/images_03/t3.jpg</thumb>
+               <source>gallery_03/images_03/3.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_03/images_03/t4.jpg</thumb>
+               <source>gallery_03/images_03/4.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_03/images_03/t5.jpg</thumb>
+               <source>gallery_03/images_03/5.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_03/images_03/t6.jpg</thumb>
+               <source>gallery_03/images_03/6.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_03/images_03/t7.jpg</thumb>
+               <source>gallery_03/images_03/7.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_03/images_03/t8.jpg</thumb>
+               <source>gallery_03/images_03/8.jpg</source>
+          </item>
+     </items>
+</gallery>

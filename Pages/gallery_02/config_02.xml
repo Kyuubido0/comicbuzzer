@@ -1,0 +1,135 @@
+<gallery>
+
+
+     <settings>
+
+
+
+
+
+
+
+
+
+
+
+
+
+          <background>
+
+               <bgColor>16777215</bgColor>
+               <transparentBG>1</transparentBG>
+          </background>
+          <slideShowDelay>3</slideShowDelay>
+          <maxImageWidth>0</maxImageWidth>
+          <slideShow>0</slideShow>
+          <showReflections>1</showReflections>
+          <useScrollBar>1</useScrollBar>
+          <scrollbar>
+
+
+
+
+
+
+
+               <handleAlpha>75</handleAlpha>
+               <arrowsColor>16777215</arrowsColor>
+               <bgColor>0</bgColor>
+               <bgAlpha>40</bgAlpha>
+               <innerShadow>20</innerShadow>
+               <arrowsAlpha>75</arrowsAlpha>
+               <dropShadow>20</dropShadow>
+               <handleColor>16777215</handleColor>
+          </scrollbar>
+          <reflectionAlpha>80</reflectionAlpha>
+          <useHighlight>1</useHighlight>
+          <imageAngle>45</imageAngle>
+          <caption>
+
+
+
+
+
+
+
+               <shadowAlpha>40</shadowAlpha>
+               <multilingualFontSize>12</multilingualFontSize>
+               <bgAlpha>50</bgAlpha>
+               <textColor>16777215</textColor>
+               <bgColor>0</bgColor>
+               <frameColor>16777215</frameColor>
+               <frameAlpha>80</frameAlpha>
+               <multilingual>0</multilingual>
+          </caption>
+          <startPosition>center</startPosition>
+          <flipDuration>2</flipDuration>
+     </settings>
+     <galleryName>PhotoFlow Gallery</galleryName>
+     <items>
+          <item>
+
+
+
+
+               <thumb>gallery_02/images_02/t1.jpg</thumb>
+               <source>gallery_02/images_02/1.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_02/images_02/t2.jpg</thumb>
+               <source>gallery_02/images_02/2.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_02/images_02/t3.jpg</thumb>
+               <source>gallery_02/images_02/3.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_02/images_02/t4.jpg</thumb>
+               <source>gallery_02/images_02/4.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_02/images_02/t5.jpg</thumb>
+               <source>gallery_02/images_02/5.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_02/images_02/t6.jpg</thumb>
+               <source>gallery_02/images_02/6.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_02/images_02/t7.jpg</thumb>
+               <source>gallery_02/images_02/7.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_02/images_02/t8.jpg</thumb>
+               <source>gallery_02/images_02/8.jpg</source>
+          </item>
+     </items>
+</gallery>

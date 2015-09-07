@@ -1,0 +1,249 @@
+/*Footer*/
+#footer{
+	width:1200px;
+	padding-left:0px;
+	padding-right:10px;
+	padding-top:20px;
+	height:250px;/* Temporal */
+	float:left;
+	background-image:url("bg-footer.jpg");
+	background-position:top center;
+	background-repeat:no-repeat;
+}
+/*End of Footer*/
+
+/* Footer sidebar */
+#sidebar{
+	float:left;
+	width:940px;
+}
+
+.widget{
+	float:left;
+	margin-left:10px;
+	margin-right:10px;
+	margin-bottom:10px;
+}
+
+.widget h3{
+		color:#F2AA00;
+		font-family:'KomikaTitleRegular', Arial, Helvetica, sans-serif;
+		font-size:14px;
+		padding-bottom:10px;
+		padding-left:10px;
+	}
+	
+	.widget ul{
+		width:200px;
+		padding:20px 10px;
+		min-height:170px;
+		background-color:rgba(26,26,26,.5);
+		border:1px solid #252525;
+		-webkit-border-radius: 5px;
+		-khtml-border-radius: 5px;	
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+	}
+	
+		.widget .corner{
+			background-image:url("widget-curl.jpg");
+			background-position:bottom right;
+			background-repeat:no-repeat;
+			height:30px;
+			margin-top:-30px;
+			margin-right:-2px;
+		}
+	
+	.widget ul li{
+		font-size:16px;
+		padding-bottom:3px;		
+		color:#FFF;
+	}
+	
+	.widget ul li a{
+		padding-left:20px;
+		color:#FFF;
+		text-decoration:none;
+	}
+	
+		.widget ul li a:hover{
+			color:#DC0000;
+			background-image:url("arrow.png");
+			background-position:0px 6px;
+			background-repeat:no-repeat;
+		}
+
+	/* Footer Tabbed Pane */
+	#tabs{
+	}
+		#tabs ul{
+			background:none;
+			border:0px;
+			padding:0px;
+			margin:0px;
+			width:428px;
+			min-height:30px;
+			height:30px;			
+			
+			-webkit-border-radius: 0px;
+			-khtml-border-radius: 0px;	
+			-moz-border-radius: 0px;
+			border-radius: 0px;
+		}
+		
+		#tabs ul li{
+			display:inline;
+			float:left;
+			text-align:left;
+		}
+			#tabs ul .active{			
+				background-image:url("tab-arrow.png");
+				background-position:bottom center;
+				background-repeat:no-repeat;
+			}
+			
+			#tabs ul .active a{
+				color:#F2AA00;
+			}
+		
+		#tabs ul li a{
+			display:block;
+			margin:0px;
+			padding:0px;
+			
+			color:#5A5A5A;
+		
+			font-family:'KomikaTitleRegular', Arial, Helvetica, sans-serif;
+			font-size:14px;
+			padding-bottom:10px;
+			padding-left:10px;
+			padding-right:20px;
+		}
+		
+			#tabs ul li a:hover{
+				background-image:none;
+				color:#F2AA00;
+			}
+			
+		#tabs .tab{
+			width:405px;
+			padding:10px 10px 20px 10px;
+			min-height:180px;
+			
+			margin-top:-6px;
+			
+			background-color:rgba(26,26,26,.5);
+			border:1px solid #252525;
+			
+			
+			-webkit-border-radius: 5px;
+			-khtml-border-radius: 5px;	
+			-moz-border-radius: 5px;
+			border-radius: 5px;
+		}
+		
+		/*Tabs Content*/
+		.tab .item{
+			float:left;
+			padding:5px 10px;
+			
+			-webkit-border-radius: 7px;
+			-khtml-border-radius: 7px;	
+			-moz-border-radius: 7px;
+			border-radius: 7px;
+		}
+		
+		.tab .item:hover{
+			background-color:#000;
+			
+			background-image: -moz-linear-gradient(left, #000000, #0D0D0D);
+			background-image: -webkit-gradient(linear, left, right, color-stop(0.00, #000000), color-stop(1.00, #0D0D0D));
+		}
+		
+			.tab .item:hover h4 a{
+				color:#F2AA00;
+			}
+		
+		.tab .item h4{
+			padding-bottom:3px;
+			color:#FFFFFF;
+		
+			font-family:'KomikaTitleRegular', Arial, Helvetica, sans-serif;
+			font-size:14px;
+		}
+		
+		.tab .item h4 a{
+			color:#FFFFFF;
+			text-decoration:none;
+		}
+		
+			.tab .item h4 a:hover{
+				color:#F2AA00;
+			}
+		
+		.tab .item p{
+			color:#909090;
+			font-size:15px;
+		}
+		
+		.pager{
+			float:right;
+			text-align:right;
+			padding-right:40px;
+		}
+		
+		.pager a{
+			color:#4A4848;
+			padding-left:5px;
+		}
+		
+			.pager a:hover{
+				color:#F2AA00;
+			}
+			
+			.pager a.active{
+				color:#D11300;
+			}
+		/* //Tabs Content*/
+	/* //Footer Tabbed Pane */		
+		
+/* //Footer sidebar 2 */
+
+/* Footer Nav */
+#footer_content{
+	float:left;
+	width:940px;
+	height:45px;
+	padding:10px;
+	margin-top:10px;
+	
+	background-image:url("bg-footer-line.jpg");
+	background-position:top center;
+	background-repeat:no-repeat;
+	
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:10px;
+	color:#515151;
+}
+
+	#footer_nav{
+		
+	}
+	
+	#footer_nav li{
+		display:inline;
+	}
+	
+	#footer_nav li:last-child a{
+		border-right:none;
+	}
+	
+	#footer_nav li a{
+		color:#515151;
+		padding-right:5px;
+		border-right:1px solid #292929;
+	}
+	
+		#footer_nav li a:hover{
+			color:#F2AA00;
+		}

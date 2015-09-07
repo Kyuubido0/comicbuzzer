@@ -1,0 +1,389 @@
+<gallery>
+
+
+     <settings>
+
+
+
+
+
+
+          <background>
+
+               <transparentBG>1</transparentBG>
+               <bgColor>16777215</bgColor>
+          </background>
+          <colorScheme>
+
+
+
+
+               <thumbsArrowsColor>0</thumbsArrowsColor>
+               <thumbsFrameColor>16777215</thumbsFrameColor>
+               <imageBGColor>0</imageBGColor>
+               <useShadow>1</useShadow>
+               <imageArrowsColor>16777215</imageArrowsColor>
+          </colorScheme>
+          <thumbnail>
+
+
+               <alpha>70</alpha>
+               <width>150</width>
+               <height>110</height>
+          </thumbnail>
+          <imageCaption>
+
+
+
+
+
+
+               <visibleMode>always</visibleMode>
+               <fontName>Arial</fontName>
+               <color>16777215</color>
+               <fontSize>11</fontSize>
+               <bgAlpha>30</bgAlpha>
+               <bgColor>0</bgColor>
+               <position>top</position>
+          </imageCaption>
+          <image>
+               <scaleMode>fit</scaleMode>
+          </image>
+          <thumbCaption>
+
+
+
+
+
+               <visibleMode>never</visibleMode>
+               <fontName>Arial</fontName>
+               <bgAlpha>70</bgAlpha>
+               <fontSize>9</fontSize>
+               <color>16777215</color>
+               <bgColor>3355443</bgColor>
+          </thumbCaption>
+     </settings>
+     <galleryName>Box Gallery</galleryName>
+     <items>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t1.jpg</thumb>
+               <source>gallery_13/images_13/1.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t2.jpg</thumb>
+               <source>gallery_13/images_13/2.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t3.jpg</thumb>
+               <source>gallery_13/images_13/3.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t4.jpg</thumb>
+               <source>gallery_13/images_13/4.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t5.jpg</thumb>
+               <source>gallery_13/images_13/5.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t6.jpg</thumb>
+               <source>gallery_13/images_13/6.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t7.jpg</thumb>
+               <source>gallery_13/images_13/7.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t8.jpg</thumb>
+               <source>gallery_13/images_13/8.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t9.jpg</thumb>
+               <source>gallery_13/images_13/9.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t10.jpg</thumb>
+               <source>gallery_13/images_13/10.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t11.jpg</thumb>
+               <source>gallery_13/images_13/11.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t12.jpg</thumb>
+               <source>gallery_13/images_13/12.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t13.jpg</thumb>
+               <source>gallery_13/images_13/13.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t14.jpg</thumb>
+               <source>gallery_13/images_13/14.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t15.jpg</thumb>
+               <source>gallery_13/images_13/15.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t16.jpg</thumb>
+               <source>gallery_13/images_13/16.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t17.jpg</thumb>
+               <source>gallery_13/images_13/17.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t18.jpg</thumb>
+               <source>gallery_13/images_13/18.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t19.jpg</thumb>
+               <source>gallery_13/images_13/19.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t20.jpg</thumb>
+               <source>gallery_13/images_13/20.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t21.jpg</thumb>
+               <source>gallery_13/images_13/21.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t22.jpg</thumb>
+               <source>gallery_13/images_13/22.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t23.jpg</thumb>
+               <source>gallery_13/images_13/23.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t24.jpg</thumb>
+               <source>gallery_13/images_13/24.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t25.jpg</thumb>
+               <source>gallery_13/images_13/25.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t26.jpg</thumb>
+               <source>gallery_13/images_13/26.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t27.jpg</thumb>
+               <source>gallery_13/images_13/27.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t28.jpg</thumb>
+               <source>gallery_13/images_13/28.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t29.jpg</thumb>
+               <source>gallery_13/images_13/29.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t30.jpg</thumb>
+               <source>gallery_13/images_13/30.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t31.jpg</thumb>
+               <source>gallery_13/images_13/31.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t32.jpg</thumb>
+               <source>gallery_13/images_13/32.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t33.jpg</thumb>
+               <source>gallery_13/images_13/33.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t34.jpg</thumb>
+               <source>gallery_13/images_13/34.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t35.jpg</thumb>
+               <source>gallery_13/images_13/35.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t36.jpg</thumb>
+               <source>gallery_13/images_13/36.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t37.jpg</thumb>
+               <source>gallery_13/images_13/37.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t38.jpg</thumb>
+               <source>gallery_13/images_13/38.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t39.jpg</thumb>
+               <source>gallery_13/images_13/39.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>gallery_13/images_13/t40.jpg</thumb>
+               <source>gallery_13/images_13/40.jpg</source>
+          </item>
+     </items>
+</gallery>

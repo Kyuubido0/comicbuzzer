@@ -1,0 +1,139 @@
+<gallery>
+
+
+     <settings>
+
+
+
+
+
+          <background>
+
+               <bgColor>16777215</bgColor>
+               <transparentBG>1</transparentBG>
+          </background>
+          <imageCaption>
+
+
+
+
+
+
+               <fontName>Arial</fontName>
+               <frameColor>6710886</frameColor>
+               <fontSize>11</fontSize>
+               <bgColor>0</bgColor>
+               <color>16777215</color>
+               <frameAlpha>80</frameAlpha>
+               <bgAlpha>80</bgAlpha>
+          </imageCaption>
+          <frame>
+
+
+
+
+
+
+               <arrowsColor>0</arrowsColor>
+               <frameColor>16777215</frameColor>
+               <alwaysShowButtons>0</alwaysShowButtons>
+               <shadowSize>5</shadowSize>
+               <useShadow>1</useShadow>
+               <frameSize>10</frameSize>
+               <buttonSize>40</buttonSize>
+          </frame>
+          <slideshow>
+
+               <start>0</start>
+               <delay>2</delay>
+          </slideshow>
+          <images>
+
+
+               <alpha>100</alpha>
+               <visibleQuantity>3</visibleQuantity>
+               <margin>5</margin>
+          </images>
+     </settings>
+     <galleryName>Line Gallery</galleryName>
+     <items>
+          <item>
+
+
+
+               <source>gallery_05/images_05/1.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery_05/images_05/2.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery_05/images_05/3.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery_05/images_05/4.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery_05/images_05/5.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery_05/images_05/6.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery_05/images_05/7.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery_05/images_05/8.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery_05/images_05/9.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery_05/images_05/10.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery_05/images_05/11.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery_05/images_05/12.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery_05/images_05/13.jpg</source>
+          </item>
+     </items>
+</gallery>

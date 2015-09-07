@@ -1,0 +1,256 @@
+@charset "utf-8";
+
+/*Font Face Kits*/
+@import url("../fonts/komika-text/stylesheet.css") screen; 
+@import url("../fonts/komika-title/stylesheet.css") screen; 
+
+/* CSS Document */
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+#slidy-container {
+	margin-top:84px;
+	width: 1350px; 
+	overflow: hidden;
+}
+#slidy {
+	 margin: 0;
+	 font-size: 0; 
+	 position: relative; 
+	 width: 1350%; 
+	 height: 800px;
+	 }
+#slidy img { 
+	width: 1350px;
+	height: 600px; 
+	}
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+ caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+a{
+	text-decoration:none;
+}
+
+/* End of reset */
+
+/*Common*/
+body{
+	background-color:#000;
+	background-image:url(../images/bg-body.jpg);
+	background-position:center top;
+	background-repeat:no-repeat;
+	
+	font-family:'KomikaTextTightRegular', Arial, Helvetica, sans-serif;
+	font-size:1em;
+}
+/*Containers*/
+#page{
+	margin:0px auto;
+	width:960px;
+}
+
+/*Header*/
+
+#header{
+	width:960px;
+	height:180px;
+	float:left;
+}
+	/*Logo container*/
+	#logo{
+		width:400px;
+		padding-top:32px;
+		padding-left:70px;
+	}
+	
+	/*top right*/
+	#header-content{
+		float:right;
+		width:440px;
+		height:105px;
+		background-image:url(../images/bg-search.png);
+		background-repeat:no-repeat;
+		
+	}
+		
+		#search{
+			text-align:right;
+			padding-top:10px;
+			
+			height:32px;/*chrome*/
+		}
+		
+			#search input{
+				vertical-align:middle;
+			}
+			
+			#search .search_input{
+				width:160px;
+				margin-right:10px;
+				padding:6px 10px;
+				
+				color:#F2AA00;
+				font-family:'KomikaTextTightRegular',Arial, Helvetica, sans-serif;
+				font-size:14px;
+				
+				background-color:#280000;
+				border:1px solid #7C0000;
+				
+				-webkit-border-radius: 3px;
+				-khtml-border-radius: 3px;	
+				-moz-border-radius: 3px;
+				border-radius: 3px;
+			}
+			
+		#social_media{
+			padding-top:15px;
+			text-align:right;
+			color:#FFF;			
+			font-family:'KomikaTitleRegular', Arial, Helvetica, sans-serif;
+			font-size:15px;
+			
+			vertical-align:middle;
+			
+			text-shadow:2px 2px 2px rgba(0,0,0,.5);
+		}
+		/*End of Top Right*/
+		
+	/*Navigation*/	
+	#main_navigation{
+		float:right;
+		margin-right:20px;
+		margin-top:-18px;
+	}
+	
+		#main_navigation li{
+			display:inline;	
+			width:120px;	
+		}
+		
+		#main_navigation li a{
+			display:block;
+			float:left;
+			
+			padding-top:7px;
+			padding-bottom:8px;
+			padding-left:20px;
+			padding-right:20px;
+			
+			margin-left:5px;
+			
+			color:#FFF;			
+			font-family:'KomikaTextItalic', Arial, Helvetica, sans-serif;
+			font-size:28px;
+			text-decoration:none;
+			
+			text-shadow:2px 2px 2px rgba(0,0,0,.5);
+			
+			-webkit-border-top-right-radius: 3px;
+			-khtml-border-radius-topright: 3px;	
+			-moz-border-radius-topright: 3px;
+			border-top-right-radius: 3px;
+
+		}
+		
+		#main_navigation li a:hover{
+			background-image:url(../images/bg-main-navigation.png);
+			background-position:left;
+			background-repeat:no-repeat;
+		}
+		
+		#main_navigation li a.selected{
+			background-image:url(../images/bg-main-navigation.png);
+			background-position:left;
+			background-repeat:no-repeat;
+		}
+	/*End of Navigation*/
+
+/*Page content*/	
+#content{
+	float:left;
+	width:960px;
+}
+
+	#top_banner{
+		float:left;
+		width:1960px;
+		height:250px;
+		background-image:url(../images/bg-banner.jpg);
+		background-position:center top;
+		background-repeat:no-repeat;
+	}
+	
+	#content_wrapper{
+		float:left;
+		width:910px;
+		
+		padding-left:10px;
+		padding-right:40px;
+		padding-top:10px;
+	}
+	
+	#page_content{
+		float:left;
+		
+		width:890px;		
+		padding:10px;
+		
+		background-color:#FFF;
+		
+		background-image:url(../images/content-page-curl.jpg);
+		background-position:bottom right;
+		background-repeat:no-repeat;
+		
+		-webkit-border-radius: 5px;
+		-khtml-border-radius: 5px;	
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+		
+		-webkit-border-bottom-right-radius: 0px;
+		-khtml-border-radius-bottomright: 0px;	
+		-moz-border-radius-bottomright: 0px;
+		border-bottom-right-radius: 0px;
+	}
